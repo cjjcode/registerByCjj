@@ -6,6 +6,10 @@ public class Test {
 
 		
 		System.out.println("shuchu");
+		System.out.println("shuchu");
+		System.out.println("shuchu");
+		System.out.println("shuchu");
+		System.out.println("shuchu");
 	}
 
 }
