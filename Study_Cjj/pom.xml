@@ -6,5 +6,7 @@
   <packaging>pom</packaging>
   <modules>
   	<module>Study_Spring</module>
+  	<module>Study_Collection</module>
+  	<module>Study_Java8</module>
   </modules>
 </project>
